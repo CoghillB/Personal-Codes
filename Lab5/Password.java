@@ -1,7 +1,5 @@
 /*Brayden Coghill
-300347436
-October 18, 2023
-Sarah Foss
+
 This program has a user enter a password and checks the password to see if it meets certain standards.
  */
 
